@@ -34,3 +34,14 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 12px 20px;
+  background: #1e40af;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
